@@ -29,10 +29,14 @@ redirect_from:
 
 <span style="color:purple"> Professional Work Experience 👔 </span>
 ---
-🔬 **Graduate Research Assistant** | University of Calgary, Department of Civil Engineering (Present)
+🔬 **Graduate Research Assistant**
+*University of Calgary, Department of Civil Engineering* (Present)
 
-💧 **Operations EIT** | The City of Calgary, Water Services (2022 to 2023)
+💧 **Operations EIT**
+*The City of Calgary, Water Services* (2022 to 2023)
 
-🚰 **Municipal EIT** | Parsons Inc. (2022)
+🚰 **Municipal EIT**
+*Parsons Inc.* (2022)
 
-🗺️ **Engineering Intern** | ISL Engineering and Land Services Ltd. (2020 to 2021)
+🗺️ **Engineering Intern**
+*ISL Engineering and Land Services Ltd.* (2020 to 2021)
