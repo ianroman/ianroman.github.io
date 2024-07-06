@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic Work"
-permalink: /portfolio/
+permalink: /portfolio.md
 ---
 Here are some of my completed academic works.
 
