@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Academic Works"
-    url: /portfolio.md
+    url: /portfolio/portfolio.md
   
   # - title: "Publications"
   #   url: /publications/
