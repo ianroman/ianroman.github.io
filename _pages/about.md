@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+![In 5-6 years, hoping to be in this place](/images/sg_5yrs.png){: .align-right width="300px"}
+
+<span style="color:purple"> About Me 🧑🏻‍🦱 </span> 
+---
 📖 Master of Science (MSc) student and Graduate Research and Teaching Assistant at the University of Calgary, Department of Civil Engineering
 
 🚋 **Research Interests:** Public Transport, Road Safety, Mobility Data Analytics
 
 🧑🏻‍🎓 After graduation, I intend to pursue a career as a ***transport planner***, ***traffic engineer***, or ***data scientist/analyst***
 
-Education 🧮 
+<span style="color:purple"> Education 🧮 </span>  
 ---
 **Master of Science, Civil Engineering, Transportation Engineering Specialization**
 - Expected Graduation: 2026
@@ -24,7 +28,7 @@ Education 🧮
 - Graduated 2022
 - Internship Program (16-month work term)
 
-Professional Work Experience 👔
+<span style="color:purple"> Professional Work Experience 👔 </span>
 ---
 🔬 **Graduate Research Assistant**, University of Calgary, Department of Civil Engineering (Present)
 
