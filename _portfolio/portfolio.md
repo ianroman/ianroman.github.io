@@ -2,8 +2,10 @@
 permalink: /academic/
 title: "Academic Works"
 author_profile: true
-redirect_from: /acads/
+redirect_from: 
+  - /acads
 ---
+
 Here are some of my completed academic works.
 
 | Document (in PDF) | Title | Type | Date | Summary |
